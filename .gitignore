@@ -1,0 +1,4 @@
+.idea
+/vendor/
+tests/unit/config.php
+tmp

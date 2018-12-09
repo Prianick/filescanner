@@ -1,0 +1,19 @@
+{
+    "name": "asp/filescanner",
+    "require": {
+        "phpunit/phpunit": "^5.7",
+        "symfony/yaml": "^3.4"
+    },
+    "authors": [
+        {
+            "name": "asp",
+            "email": "dr.profee@yandex.ru"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "core",
+            "tests"
+        ]
+    }
+}
